@@ -14,19 +14,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ishita-singh-creater/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
-<a href="https://auth.geeksforgeeks.org/user/15ishita03/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-shaw-040698217/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
+<a href="https://auth.geeksforgeeks.org/user/utkarshshaw/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="firebase" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="java" width="40" height="40"/>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
            </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishita03-Singh&show_icons=true&locale=en&layout=compact" alt="Ishita Singh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1508-p&show_icons=true&locale=en&layout=compact" alt="Utkarsh Shaw" /></p>
 s
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishita03-Singh&show_icons=true&locale=en" alt="Ishita Singh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh1508-p&show_icons=true&locale=en" alt="Utkarsh Shaw" /></p>
 
 
 
