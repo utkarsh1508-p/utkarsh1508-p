@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh Shaw</h1>
-<h3 align="center">An Machine Learning enthusiast with problem solving skills</h3>
+<h3 align="center">A Machine Learning enthusiast with problem solving skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh1508-p&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh Shaw" /> </p>
 
