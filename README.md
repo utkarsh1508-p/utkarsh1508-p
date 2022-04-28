@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-shaw-040698217/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-shaw-040698217/" target="blank"><alt="Utkarsh Shaw " height="24" width="24" /></a>
 <a href="https://auth.geeksforgeeks.org/user/utkarshshaw/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Utkarsh Shaw " height="24" width="24" /></a>
 </p>
 
