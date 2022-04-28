@@ -25,7 +25,6 @@
            </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1508-p&show_icons=true&locale=en&layout=compact" alt="Utkarsh Shaw" /></p>
-s
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh1508-p&show_icons=true&locale=en" alt="Utkarsh Shaw" /></p>
 
 
